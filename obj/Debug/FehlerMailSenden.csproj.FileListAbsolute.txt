@@ -1,0 +1,7 @@
+D:\OneDrive - Atzwanger AG\Visual Studio 2017\Projects\Firmentools\FehlerMailSenden\FehlerMailSenden\bin\Debug\FehlerMailSenden.exe.config
+D:\OneDrive - Atzwanger AG\Visual Studio 2017\Projects\Firmentools\FehlerMailSenden\FehlerMailSenden\bin\Debug\FehlerMailSenden.exe
+D:\OneDrive - Atzwanger AG\Visual Studio 2017\Projects\Firmentools\FehlerMailSenden\FehlerMailSenden\bin\Debug\FehlerMailSenden.pdb
+D:\OneDrive - Atzwanger AG\Visual Studio 2017\Projects\Firmentools\FehlerMailSenden\FehlerMailSenden\obj\Debug\FehlerMailSenden.csprojResolveAssemblyReference.cache
+D:\OneDrive - Atzwanger AG\Visual Studio 2017\Projects\Firmentools\FehlerMailSenden\FehlerMailSenden\obj\Debug\FehlerMailSenden.csproj.CoreCompileInputs.cache
+D:\OneDrive - Atzwanger AG\Visual Studio 2017\Projects\Firmentools\FehlerMailSenden\FehlerMailSenden\obj\Debug\FehlerMailSenden.exe
+D:\OneDrive - Atzwanger AG\Visual Studio 2017\Projects\Firmentools\FehlerMailSenden\FehlerMailSenden\obj\Debug\FehlerMailSenden.pdb
